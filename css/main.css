@@ -62,6 +62,11 @@ font-family: 'Tinos', serif;
 
 #navigation li a:hover { background: #591E23; }
 
+#navigation li a.current{
+   color: #CCCCCC;
+   background:#591E23;
+}
+
 #content-container
 {
 	float: left;
